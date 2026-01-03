@@ -20,6 +20,7 @@ A standalone Python utility designed to programmatically evaluate the security r
 1. **Install dependencies**: Use the command `pip install -r requirements.txt`.
 2. **Run the simulation**: Execute `python app.py` and navigate to `http://127.0.0.1:5000/`.
 3. **Execute the detector**: Execute `python phishing_detector.py` and input a URL for analysis.
+## Project Structure
 ```
 Phishing_Project/
 ├── static/
@@ -36,3 +37,4 @@ Phishing_Project/
 ## Ethical Disclosure
 
 This project is for authorized security research and educational purposes only. Unauthorized use against real-world targets is strictly prohibited.
+
